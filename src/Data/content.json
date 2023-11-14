@@ -1,0 +1,39 @@
+{
+    "profile":{
+        "name": "Abqari Abbas",
+        "followers": "6482",
+        "following": "245",
+        "profession": "Co-founder and CEO of Terribly Tiny Tales",
+        "instagram": "https://www.instagram.com/anujgosalia",
+        "favorites": "125",
+        "thumbLikes": "12",
+        "views": "57.8K",
+        "heartLikes": "26.0K"
+    },
+    "postDetails": {
+        "totalPosts": "134 Posts",
+        "posts": [
+            {
+                "postID": 1,
+                "postTitle": "A Changing World Order",
+                "postDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus praesentium ullam accusamus nulla minima asperiores soluta delectus similique pariatur saepe placeat odit sequi, est voluptatem quod facere! Voluptatibus nam ipsam harum laborum earum.",
+                "postSignature": "musing",
+                "postDate": "August 2 . 2 min Read . 102 Views"
+            },
+            {
+                "postID": 2,
+                "postTitle": "India v/s Australia",
+                "postDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus praesentium ullam accusamus nulla minima asperiores soluta delectus similique pariatur saepe placeat odit sequi, est voluptatem quod facere! Voluptatibus nam ipsam harum laborum earum.",
+                "postSignature": "thought",
+                "postDate": "January 21 . 1 min Read . 156 Views"
+            },
+            {
+                "postID": 2,
+                "postTitle": "Write to Build",
+                "postDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus praesentium ullam accusamus nulla minima asperiores soluta delectus similique pariatur saepe placeat odit sequi, est voluptatem quod facere! Voluptatibus nam ipsam harum laborum earum.",
+                "postSignature": "thought",
+                "postDate": "November 18 . 1 min Read . 228 Views"
+            }
+        ]
+    }
+}

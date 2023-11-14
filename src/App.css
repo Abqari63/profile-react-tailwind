@@ -1,0 +1,13 @@
+.profile-bg-image {
+    background-image: url('./images/rolls.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.profile-photo {
+    background-image: url('./images/abqari.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
