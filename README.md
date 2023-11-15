@@ -14,6 +14,6 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
 
 **Step 1:** Navigate to the directory where you want to clone this project.  
 **Step 2:** Open the terminal run the below commands:  
-            `<pre>cd profile-react-tailwind</pre>`
+          <pre>`cd profile-react-tailwind`</pre>
 
   
