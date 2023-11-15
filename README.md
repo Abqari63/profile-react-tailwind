@@ -1,6 +1,6 @@
 # Summary
 
-Developed a fully responsive Profile page with React.js and TailwindCSS with Demo data made available on 'Data/content.json' It has following components as below:  
+Developed a fully responsive profile page with React.js and TailwindCSS with Demo data made available on 'Data/content.json' It has following components as below:  
 
   
 **1) Nav.jsx:** This component as the name suggest for the navbar styled with Tailwind CSS, it contains logo and courses button.  
