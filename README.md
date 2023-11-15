@@ -17,11 +17,12 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
 
 **<pre>1) @types/react:</pre>**  
 
-**What it is: This is a package providing TypeScript type definitions for React.
-Why it's used: TypeScript uses type definitions to understand the shape of the code and provide better development tools and catch potential errors during development.
-@types/react-dom:  
-What it is: TypeScript type definitions for React's DOM-related features.
-Why it's used: Similar to @types/react, this package provides TypeScript type definitions specifically for React's DOM-related functionalities.  
+**What it is:** This is a package providing TypeScript type definitions for React.  
+**Why it's used:** TypeScript uses type definitions to understand the shape of the code and provide better development tools and catch potential errors during development.  
+  
+**<pre>@types/react-dom:</pre>**  
+**What it is:** TypeScript type definitions for React's DOM-related features.  
+**Why it's used:** Similar to @types/react, this package provides TypeScript type definitions specifically for React's DOM-related functionalities.  
 
 **<pre>@vitejs/plugin-react:</pre>**  
 What it is: Vite plugin for React.
