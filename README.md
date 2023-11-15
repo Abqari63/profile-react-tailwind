@@ -11,6 +11,6 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
 
 
 **The project hosted link with Netlify.com is mentioned below:  
-<a>https:://abqariabbas.netlify.app</a>
+<a>https://abqariabbas.netlify.app</a>
 
   
