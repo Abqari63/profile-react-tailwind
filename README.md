@@ -1,6 +1,6 @@
 # Summary
 
-Developed a fully responsive profile page with React.js and styled with TailwindCSS with frontend build and development tool **Vite** for fast and efficient deveopment. Demo data made available on local JSON file 'src/Data/content.json'.Font awesome CDN for the icons like *check*, *diamond*, *thumbs-up*, *star*, *heart*, *views*. It has the following components as mentioned below:  
+Developed a fully responsive profile page with React.js and styled with TailwindCSS with frontend build and development tool **Vite** for fast and efficient development. Demo data made available on local JSON file 'src/Data/content.json'.Font awesome CDN for the icons like *check*, *diamond*, *thumbs-up*, *star*, *heart*, *views*. It has the following components as mentioned below:  
 
   
 **1) Nav.jsx:** This component as the name suggest for the navbar styled with Tailwind CSS, it contains logo and courses button.  
