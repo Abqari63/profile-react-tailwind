@@ -25,7 +25,7 @@ const Profile = () => {
                 </div>
                 <div className="photo-details flex flex-col gap-2 w-fit">
                     <h3 className="profession text-md md:text-lg">{userProfile.profession}</h3>
-                    <a href={userProfile.instagram} className="instagram-link text-blue-500 font-semibold text-sm md:text-lg" target="_blank" rel="noreferrer">{userProfile.instagram}</a>
+                    <a href={userProfile.instagram} className="instagram-link text-blue-500 font-semibold text-sm md:text-lg hover:underline" target="_blank" rel="noreferrer">{userProfile.instagram}</a>
                     <div className="reactions flex flex-col sm:flex-row flex-wrap p-1 gap-8 text-xs font-semibold">
                         <span className="flex gap-2"><i className="fa-regular fa-star flex justify-center items-center p-1 bg-cyan-600 text-white text-sm w-6 h-6 rounded-full"></i><span className="py-0.5 text-sm font-semibold">{userProfile.favorites}</span></span>
                         <span className="flex gap-2"><i className="fa-regular fa-thumbs-up flex justify-center items-center p-1 bg-yellow-600 text-white text-sm w-6 h-6 rounded-full"></i><span className="py-0.5 text-sm font-semibold">{userProfile.thumbLikes}</span></span>
