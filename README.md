@@ -60,16 +60,7 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
 **What it is:** Vite is a fast frontend development build tool.  
 **Why it's used:** Vite is used to build and serve the application during development. It offers features like hot module replacement (HMR) for fast and efficient development.  
 
-# Steps to run the project on the local development server  
 
-  **Step 1:** Go to directory where you want to clone this repository.  
-  **Step 2:** Open the terminal in this directory, and run the following commands.  
-          <pre>`git clone https://github.com/Abqari63/profile-react-tailwind`<pre>
-          <pre>`cd profile-react-tailwind`<pre>  
-          <pre>`npm i`<pre>  
-          <pre>`npm run dev`<pre>  
-                
-  localhost is up and running on **<pre>localhost:5173</pre>**
   
 
   
