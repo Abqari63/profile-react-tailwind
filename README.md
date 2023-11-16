@@ -65,8 +65,12 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
 **Step 1:** Go to the directory where you want to clone this repository.  
 
 **Step 1:** Open the terminal on this directory, and run the following commands.  
-    <pre>`git clone https://github.com/Abqari63/profile-react-tailwind`</pre>
+    <pre>`git clone https://github.com/Abqari63/profile-react-tailwind`</pre>  
+    <pre>`cd profile-react-tailwind`</pre>  
+    <pre>`npm i`</pre>  
+    <pre>`npm run dev`</pre>  
 
+  development server is up and running on **<pre>localhost:5173</pre>**
 
   
 
