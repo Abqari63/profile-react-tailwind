@@ -56,7 +56,7 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
 **What it is:** A utility-first CSS framework.  
 **Why it's used:** Tailwind CSS provides a set of utility classes that can be used to build designs directly in the markup. It's a popular choice for rapidly prototyping and building user interfaces with a consistent design system.  
   
-**`<pre>11) vite</pre>`**  
+`**<pre>11) vite</pre>**`  
 **What it is:** Vite is a fast frontend development build tool.  
 **Why it's used:** Vite is used to build and serve the application during development. It offers features like hot module replacement (HMR) for fast and efficient development.
 
