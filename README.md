@@ -70,7 +70,7 @@ Developed a fully responsive profile page with React.js and styled with Tailwind
     <pre>`npm i`</pre>  
     <pre>`npm run dev`</pre>  
 
-development server is up and running on **<pre>localhost:5173</pre>**.
+development server is up and running on **localhost:5173**.
 
   
 
